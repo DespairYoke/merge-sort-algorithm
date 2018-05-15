@@ -2,4 +2,4 @@
 
 * 二分治思想
 
-![](https://github.com/love-dl-forever/merge-sort-algorithm/tree/master/img/1.png)
+![图解](https://github.com/love-dl-forever/merge-sort-algorithm/raw/master/img/1.png)
